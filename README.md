@@ -717,6 +717,3 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
-
-# I am not responsible for any user of this program being grounded (or anything else) because their parent/guardian found out about it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Yes, i intentionally put it at the end of readme XD
