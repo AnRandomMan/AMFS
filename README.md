@@ -22,11 +22,11 @@ _(No `requirements.txt` file is included yet.)_
 **Important: Your Windows account must have administrator privileges for this tool to work correctly.**
 
 1. Unpack the `.zip` file in your user folder (e.g., `C:/Users/YOUR_USER`)
-2. Edit `AMFS-Start.xml` on line 48: replace `[YOUR_USER]` with your actual Windows username.
-3. Press `Win + R`, type `taskschd.msc`, and hit Enter.
-4. In Task Scheduler, click **"Import Task"** (right panel, third option).
-5. Select the modified `.xml` file.
-6. Done!
+2. Edit `AMFS-Start.xml` on line 48 and `start.bat` on line 3: replace `[YOUR_USER]` with your actual Windows username.
+4. Press `Win + R`, type `taskschd.msc`, and hit Enter.
+5. In Task Scheduler, click **"Import Task"** (right panel, third option).
+6. Select the modified `.xml` file.
+7. Done!
 
 For best results, watch this setup guide: [YouTube Video](https://www.youtube.com/watch?v=fBjpiTgO_vw)
 
