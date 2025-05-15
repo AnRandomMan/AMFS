@@ -1,3 +1,3 @@
 @echo off
-start "" pythonw.exe "C:\Users\rpawl\AMFS\AMFS.pyw"
+start "" pythonw.exe "C:\Users\[YOUR_USER]\AMFS\AMFS.pyw"
 exit
