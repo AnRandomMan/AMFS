@@ -32,7 +32,6 @@ For best results, watch this setup guide: [YouTube Video](https://www.youtube.co
 
 If you have any questions or problems, feel free to contact me via:
 - Discord: `dogeseleq_`
-- Email: `dogeseleq@gmail.com`
 
 ---
 
